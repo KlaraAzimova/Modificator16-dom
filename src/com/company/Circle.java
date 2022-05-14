@@ -32,8 +32,6 @@ public class Circle {
 
     @Override
     public String toString() {
-        area();
-        circumference();
         return "Circle: ";
     }
 }
